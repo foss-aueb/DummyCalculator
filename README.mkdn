@@ -1,0 +1,3 @@
+DummyCalculator
+---------------
+This is a simple gui written in java with swing. It was created with NetBeans IDE for a foss-aueb presentation.
